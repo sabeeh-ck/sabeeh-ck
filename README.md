@@ -22,19 +22,6 @@ I’m a Full-Stack Developer focused on building modern web applications and exp
 - Responsive and interactive user interfaces
 - Database-driven applications
 
-## GitHub Stats
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=sabeeh-ck&show_icons=true&hide_border=true&theme=tokyonight" height="160" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sabeeh-ck&layout=compact&hide_border=true&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/streak?username=sabeeh-ck&hide_border=true&theme=tokyonight" height="160" />
-</p>
-
 ## Connect
 
 <p>
