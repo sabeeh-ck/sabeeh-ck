@@ -31,15 +31,23 @@ I’m a Full-Stack Developer focused on building modern web applications and exp
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&hide_border=true&theme=transparent" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabeeh-ck&layout=compact&hide_border=true&theme=transparent" height="160" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sabeeh-ck&show_icons=true&hide_border=true&theme=tokyonight"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabeeh-ck&layout=compact&hide_border=true&theme=tokyonight"
+    height="160"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sabeeh-ck&hide_border=true&theme=transparent" />
+  <img
+    src="https://streak-stats.demolab.com?user=sabeeh-ck&hide_border=true&theme=tokyonight"
+    height="160"
+  />
 </p>
 
----
 
 ## Connect
 
