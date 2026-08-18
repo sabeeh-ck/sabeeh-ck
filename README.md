@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Sabeeh
 
-<!--
-**sabeeh-ck/sabeeh-ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer
 
-Here are some ideas to get you started:
+I’m a Full-Stack Developer focused on building modern web applications and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently working with **React, Next.js, TypeScript, and Node.js**
+- Interested in **full-stack development, backend architecture, and AI**
+- Building projects to improve my skills and solve real-world problems
+- Portfolio: https://sabeeh-ck.vercel.app
+
+---
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express,tailwind,mongodb,postgres,supabase,firebase,git,github,vercel" />
+</p>
+
+---
+
+## What I Build
+
+- Full-stack web applications
+- REST APIs and backend services
+- Responsive and interactive user interfaces
+- Database-driven applications
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&hide_border=true&theme=transparent" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabeeh-ck&layout=compact&hide_border=true&theme=transparent" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sabeeh-ck&hide_border=true&theme=transparent" />
+</p>
+
+---
+
+## Connect
+
+<p>
+  <a href="https://sabeeh-ck.vercel.app">Portfolio</a> •
+  <a href="https://linkedin.com/in/sabeeh-ck">LinkedIn</a> •
+  <a href="mailto:sabeeh-ck@outlook.com">Email</a>
+</p>
